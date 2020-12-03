@@ -4,3 +4,10 @@ C:\Projects\Generics\Generics\bin\Debug\Generics.exe
 C:\Projects\Generics\Generics\bin\Debug\Generics.pdb
 C:\Projects\Generics\Generics\obj\Debug\Generics.exe
 C:\Projects\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\ercan.tirman\Desktop\mentorship\1-Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\ercan.tirman\Desktop\mentorship\1-Generics\Generics\bin\Debug\Generics.exe
+C:\Users\ercan.tirman\Desktop\mentorship\1-Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\ercan.tirman\Desktop\mentorship\1-Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\ercan.tirman\Desktop\mentorship\1-Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\ercan.tirman\Desktop\mentorship\1-Generics\Generics\obj\Debug\Generics.exe
+C:\Users\ercan.tirman\Desktop\mentorship\1-Generics\Generics\obj\Debug\Generics.pdb

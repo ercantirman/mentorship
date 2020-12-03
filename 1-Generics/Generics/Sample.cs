@@ -22,10 +22,10 @@ namespace Generics
         }
 
         // Constraint to a class
-        static float CalculateDiscount<TProduct>(TProduct product) where TProduct : Product
+        static double CalculateDiscount<TProduct>(TProduct product) where TProduct : Product
         {
             //product.Price;
-            return 0;
+            return product.Price * 0.75;
         }
 
         // Constraint to a value type

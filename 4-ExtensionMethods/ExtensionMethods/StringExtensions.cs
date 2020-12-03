@@ -20,5 +20,16 @@ namespace System
 
             return string.Join(" ", words.Take(numberOfWords)) + "...";
         }
+
+     
+        
+    }
+
+    public static class ABC 
+    {
+        public static string TurkishFormatExpression(this string str)
+        {
+            return str.Replace('İ', 'I').Replace('ı', 'i');
+        }
     }
 }

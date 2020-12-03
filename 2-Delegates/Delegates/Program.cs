@@ -14,6 +14,7 @@ namespace Delegates
             filterHandler += RemoveRedEyeFilter;
 
             processor.Process("photo.jpg", filterHandler);
+            Console.ReadKey();
         }
 
         static void RemoveRedEyeFilter(Photo photo)

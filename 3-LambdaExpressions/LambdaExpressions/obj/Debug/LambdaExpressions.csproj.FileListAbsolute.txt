@@ -4,3 +4,10 @@ C:\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
 C:\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojResolveAssemblyReference.cache
 C:\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
 C:\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
+C:\Users\ercan.tirman\Desktop\mentorship\3-LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+C:\Users\ercan.tirman\Desktop\mentorship\3-LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Users\ercan.tirman\Desktop\mentorship\3-LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Users\ercan.tirman\Desktop\mentorship\3-LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojAssemblyReference.cache
+C:\Users\ercan.tirman\Desktop\mentorship\3-LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\ercan.tirman\Desktop\mentorship\3-LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+C:\Users\ercan.tirman\Desktop\mentorship\3-LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb

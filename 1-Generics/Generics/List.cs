@@ -2,11 +2,13 @@
 
 namespace Generics
 {
-    public class List
+    public class NumberList
     {
+        public int[] Elements { get; set; }
+
         public void Add(int number)
         {
-            throw new NotImplementedException();
+            Elements[Elements.Length + 1] = number; 
         }
 
         public int this[int index]

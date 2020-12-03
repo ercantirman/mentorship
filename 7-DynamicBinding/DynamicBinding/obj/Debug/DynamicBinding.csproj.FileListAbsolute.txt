@@ -4,3 +4,10 @@ C:\Projects\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.pdb
 C:\Projects\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.csprojResolveAssemblyReference.cache
 C:\Projects\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.exe
 C:\Projects\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.pdb
+C:\Users\ercan.tirman\Desktop\mentorship\7-DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.exe.config
+C:\Users\ercan.tirman\Desktop\mentorship\7-DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.exe
+C:\Users\ercan.tirman\Desktop\mentorship\7-DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.pdb
+C:\Users\ercan.tirman\Desktop\mentorship\7-DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.csprojAssemblyReference.cache
+C:\Users\ercan.tirman\Desktop\mentorship\7-DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.csproj.CoreCompileInputs.cache
+C:\Users\ercan.tirman\Desktop\mentorship\7-DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.exe
+C:\Users\ercan.tirman\Desktop\mentorship\7-DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.pdb

@@ -11,6 +11,8 @@ namespace LambdaExpressions
 
             var cheapBooks = books.FindAll(b => b.Price < 10);
 
+            var a = books.FindAll(b => b.Price > 10);
+
             foreach (var book in cheapBooks)
             {
                 Console.WriteLine(book.Title);

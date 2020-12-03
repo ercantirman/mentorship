@@ -4,3 +4,10 @@ C:\Projects\Linq\Linq\bin\Debug\Linq.pdb
 C:\Projects\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
 C:\Projects\Linq\Linq\obj\Debug\Linq.exe
 C:\Projects\Linq\Linq\obj\Debug\Linq.pdb
+C:\Users\ercan.tirman\Desktop\mentorship\5-Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\ercan.tirman\Desktop\mentorship\5-Linq\Linq\bin\Debug\Linq.exe
+C:\Users\ercan.tirman\Desktop\mentorship\5-Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\ercan.tirman\Desktop\mentorship\5-Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\ercan.tirman\Desktop\mentorship\5-Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\ercan.tirman\Desktop\mentorship\5-Linq\Linq\obj\Debug\Linq.exe
+C:\Users\ercan.tirman\Desktop\mentorship\5-Linq\Linq\obj\Debug\Linq.pdb

@@ -7,6 +7,8 @@ namespace Generics
         static void Main(string[] args)
         {
             var number = new Nullable<int>();
+
+            int? number2 = null;
             Console.WriteLine("Has Value ?" + number.HasValue);
             Console.WriteLine("Value: " + number.GetValueOrDefault());
         }

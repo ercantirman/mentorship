@@ -10,14 +10,22 @@ namespace ExtensionMethods
     {
         static void Main(string[] args)
         {
+
             string post = "This is supposed to be a very long blog post blah blah blah...";
             var shortenedPost = post.Shorten(5);
 
             IEnumerable<int> numbers = new List<int>() { 1, 5, 3, 10, 2, 18 };
             var max = numbers.Max();
 
-            Console.WriteLine(max);
+            int sayi = 2;
+            var multipliedSayi = sayi.MultiplyWithTwo();
 
+            var turkishWord = "İZMİR";
+
+            var formattedTurkishWord = turkishWord.TurkishFormatExpression();
+
+            Console.WriteLine(formattedTurkishWord);
+            Console.ReadKey();
         }
     }
 }

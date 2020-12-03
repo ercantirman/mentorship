@@ -12,11 +12,16 @@ namespace NullableTypes
 
             DateTime date3 = (date != null) ? date.GetValueOrDefault() : DateTime.Today;
 
+            DateTime date4 = date.GetValueOrDefault();
+
+            int? integer = null;
+            int integer2 = integer.GetValueOrDefault(-1);
 
 
-            Console.WriteLine(date2);
 
+            Console.WriteLine(date4);
 
+            Console.ReadKey();
 
         }
     }
